@@ -31,8 +31,23 @@ One way to simulate [lightning is with a random walk](https://docs.google.com/pr
 
 ## Student Submissions of Lightning Project
 
-[Baseline Lightning Project Sample](https://chandrunarayan.github.io/sketches/Lightning/)
+### [Baseline Lightning Project Sample](https://chandrunarayan.github.io/sketches/Lightning/)
 
 * ![alt text][lightning]
 
+### [Mark Lightning Project](https://markparrish.github.io/Lightning/)
+
+* ![alt text][marklight]
+
+### [Chloe Lightning Project](https://chloeb777.github.io/Lightning/)
+
+* ![alt text][chloelight]
+
+### [Mizuki Lightning Project](https://mizukiyates.github.io/Lightning/)
+
+* ![alt text][mizukilight]
+
+[chloelight]: chloelight.png
+[marklight]: marklight.png
+[mizukilight]: mizukilight.png
 [lightning]: lightning.png
