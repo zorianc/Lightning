@@ -7,7 +7,7 @@ One way to simulate [lightning is with a random walk](https://docs.google.com/pr
 ## Suggested steps to start the assignment
 
 1. Sign up for a free GitHub account. You might have already done this, please check with me. Please send me your username for Github via Slack.
-1. Complete the Github and While Loops primer before attempting this project. It has important informagtion that will be useful for this and future Procssing projects!
+1. Complete the Github and While Loops primer before attempting this project. It has important information that will be useful for this and future Procssing projects!
 1. Then fork this repository. The Fork Button is on the Top-Right of this page. The Java Processing Slideshow has details on how to fork this repository and edit files.
 1. Open the Lightning.pde file. Copy and paste the code into Processing.
 1. At the top of the program in Processing, declare 4 ````int```` variables ````startX````, ````startY````, ````endX```` and ````endY````. Initialize ````startX```` to 0, ````startY```` to 150, ````endX```` to 0 and ````endY```` to 150
