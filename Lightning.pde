@@ -1,13 +1,13 @@
 int x;
 int y;
 void setup(){
-  size(400,400);
+  size(800,800);
 }
 
 void draw(){
   fill(0,10);
   rect(0,0,width, height);
-  while(y<400){
+  while(y<800){
      int endX = x + int(random(-4, 4));
      int endY = y + 1;
      strokeWeight(2);
